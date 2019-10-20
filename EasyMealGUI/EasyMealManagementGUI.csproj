@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>a91a9963-172c-4797-a53f-1a3483d2960d</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasyMeal\EasyMealCore.csproj" />
+    <ProjectReference Include="..\EF_MSSQL_DataStore\EF_MSSQL_DataStore.csproj" />
+    <ProjectReference Include="..\EF_MSSQL_Identity\EF_MSSQL_Identity_DataStore.csproj" />
+  </ItemGroup>
+
+</Project>

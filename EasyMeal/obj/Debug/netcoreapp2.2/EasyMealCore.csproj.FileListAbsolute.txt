@@ -1,0 +1,11 @@
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\bin\Debug\netcoreapp2.2\EasyMealCore.deps.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\bin\Debug\netcoreapp2.2\EasyMealCore.runtimeconfig.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\bin\Debug\netcoreapp2.2\EasyMealCore.runtimeconfig.dev.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\bin\Debug\netcoreapp2.2\EasyMealCore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\bin\Debug\netcoreapp2.2\EasyMealCore.pdb
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.csprojAssemblyReference.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.csproj.CoreCompileInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.AssemblyInfoInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.AssemblyInfo.cs
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EasyMeal\obj\Debug\netcoreapp2.2\EasyMealCore.pdb

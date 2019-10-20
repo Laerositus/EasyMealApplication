@@ -1,0 +1,14 @@
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.deps.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.runtimeconfig.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.runtimeconfig.dev.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.pdb
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EasyMealCore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\bin\Debug\netcoreapp2.2\EasyMealCore.pdb
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.csprojAssemblyReference.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.csproj.CoreCompileInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.AssemblyInfoInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.AssemblyInfo.cs
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.csproj.CopyComplete
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_Identity\obj\Debug\netcoreapp2.2\EF_MSSQL_Identity_DataStore.pdb
