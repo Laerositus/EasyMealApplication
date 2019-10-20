@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EF_MSSQL_Identity\\EF_MSSQL_Identity_DataStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\EasyMealCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\EasyMealCore.csproj",
+        "projectName": "EasyMealCore",
+        "projectPath": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\EasyMealCore.csproj",
+        "packagesPath": "C:\\Users\\Laerositus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Laerositus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EF_MSSQL_Identity\\EF_MSSQL_Identity_DataStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EF_MSSQL_Identity\\EF_MSSQL_Identity_DataStore.csproj",
+        "projectName": "EF_MSSQL_Identity_DataStore",
+        "projectPath": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EF_MSSQL_Identity\\EF_MSSQL_Identity_DataStore.csproj",
+        "packagesPath": "C:\\Users\\Laerositus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EF_MSSQL_Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Laerositus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\EasyMealCore.csproj": {
+                "projectPath": "C:\\Users\\Laerositus\\Source\\Repos\\EasyMealApplication\\EasyMeal\\EasyMealCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

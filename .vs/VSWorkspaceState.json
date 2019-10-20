@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EasyMealAPI_Lvl2",
+    "\\EasyMealGUI",
+    "\\EasyMealManagementGUITests",
+    "\\EasyMealOrderGUITests",
+    "\\EF_MSSQL_DataStore",
+    "\\EF_MSSQL_Identity"
+  ],
+  "SelectedNode": "\\EasyMealManagementGUITests",
+  "PreviewInSolutionExplorer": false
+}

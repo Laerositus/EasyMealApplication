@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EF_MSSQL_Identity_DataStore/1.0.0": {
+        "dependencies": {
+          "EasyMealCore": "1.0.0"
+        },
+        "runtime": {
+          "EF_MSSQL_Identity_DataStore.dll": {}
+        }
+      },
+      "EasyMealCore/1.0.0": {
+        "runtime": {
+          "EasyMealCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EF_MSSQL_Identity_DataStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyMealCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

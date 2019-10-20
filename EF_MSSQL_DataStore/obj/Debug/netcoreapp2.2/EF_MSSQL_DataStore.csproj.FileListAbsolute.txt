@@ -1,0 +1,14 @@
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EF_MSSQL_DataStore.deps.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EF_MSSQL_DataStore.runtimeconfig.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EF_MSSQL_DataStore.runtimeconfig.dev.json
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EF_MSSQL_DataStore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EF_MSSQL_DataStore.pdb
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EasyMealCore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\bin\Debug\netcoreapp2.2\EasyMealCore.pdb
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.csprojAssemblyReference.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.csproj.CoreCompileInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.AssemblyInfoInputs.cache
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.AssemblyInfo.cs
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.csproj.CopyComplete
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.dll
+C:\Users\Laerositus\Dropbox\Avans\Jaar 2\SSWF\EasyMealApplication\EF_MSSQL_DataStore\obj\Debug\netcoreapp2.2\EF_MSSQL_DataStore.pdb
